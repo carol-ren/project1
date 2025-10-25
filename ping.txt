@@ -1,9 +1,5 @@
 test Sat Oct 25 10:47:30 BST 2025
 new line from me
-local edit at Sat Oct 25 12:09:45 BST 2025
-<<<<<<< HEAD
 what a nice day
-=======
-local edit at Sat Oct 25 12:14:38 BST 2025
->>>>>>> ee691fe (local: edit ping.txt)
 local edit at Sat Oct 25 12:22:21 BST 2025
+wow from website
